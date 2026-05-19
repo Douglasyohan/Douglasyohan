@@ -1,4 +1,4 @@
-# Olá, eu sou o Douglas Yohan 👋
+# Olá, meu nome é Douglas Yohan. Seja bem-vindo!
 
 ### Analista de Infraestrutura | Pesquisador em Contabilidade Social | Desenvolvedor de Modelos Socioeconômicos
 
