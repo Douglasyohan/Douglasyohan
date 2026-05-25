@@ -1,46 +1,83 @@
-# Olá, meu nome é Douglas Yohan. Seja bem-vindo!
+```md
+# Olá, eu sou Douglas Yohan 👋
 
-### Analista de Infraestrutura | Pesquisador em Contabilidade Social | Desenvolvedor de Modelos Socioeconômicos
+## Analista de Infraestrutura | Automação | Linux | Dados
 
-Atualmente, dedico minha trajetória à intersecção entre a **Tecnologia da Informação** e as **Ciências Contábeis**. Meu foco principal é a criação de ferramentas que traduzam dados técnicos e financeiros em impacto social mensurável, utilizando o rigor da infraestrutura de dados para sustentar modelos de análise socioeconômica.
+Atuo na intersecção entre infraestrutura, automação, segurança da informação e análise de dados, com foco em ambientes Linux, virtualização e desenvolvimento de soluções voltadas à eficiência operacional.
 
----
-
-## 📈 Foco de Pesquisa & Carreira: Contabilidade Social
-
-Minha atuação é centrada no desenvolvimento e validação do **Modelo de Conversão Socioeconômica (MCS)**, um projeto independente que busca quantificar externalidades sociais através de lógica contábil e dados macroeconômicos.
-
-* **Modelagem de Impacto:** Estruturação de indicadores híbridos (Econômico + Social).
-* **Métricas Proprietárias:** Desenvolvimento dos índices **TCS** (Taxa de Conversão Social), **IEI** e **CI**.
-* **Análise de Dados Macroeconômicos:** Automação de coleta e tratamento de dados do **BACEN** (SELIC, IPCA, CDI) via Python.
-* **Justiça Social e Eficiência:** Estudo sobre a distribuição de valor e o impacto coletivo das decisões financeiras.
+Tenho experiência prática com administração de ambientes Linux, deploy automatizado, segmentação de redes, virtualização, monitoramento e automação com Python.
 
 ---
 
-## 🛠️ Stack Técnica & Competências
+## 🚀 Tecnologias & Ferramentas
 
-### 🧪 Análise de Dados e Automação
-* **Linguagens:** Python (Automação, Pandas, APIs BACEN) e Shell Scripting (Bash).
-* **Ambientes:** Linux (Fedora, Ubuntu Server, Debian) com foco em estabilidade e segurança (LUKS + LVM).
-* **Deploy:** Empacotamento `.deb` para automação de agentes e deploys offline.
+### 🐧 Infraestrutura & Sistemas
 
-### 🏗️ Infraestrutura de Suporte
-* **Virtualização:** Proxmox e Docker para isolamento de serviços e modelos de análise.
-* **Redes e Governança:** Segmentação de redes (LAN/DMZ), Firewalls (pfSense) e estruturação de políticas baseadas em frameworks como **SOC 2**.
-* **Monitoramento:** Observabilidade e análise de logs com ELK Stack.
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔐 Segurança & Redes
+
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![SOC2](https://img.shields.io/badge/SOC%202-1E293B?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+### 🧪 Automação & Dados
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🔗 Conecte-se comigo
+## 📌 Áreas de Interesse
+
+- Infraestrutura Linux
+- Segurança da Informação
+- Virtualização e Containers
+- Automação e Deploy
+- Observabilidade e Logs
+- Ciência de Dados
+- APIs e Integrações
+- Governança e Compliance
+
+---
+
+## 🎓 Formação
+
+- Bacharelando em Ciências Contábeis — UNICENTRO
+- Formação complementar em Análise de Sistemas e Cibersegurança
+- Participação em iniciativas e comitês relacionados à segurança da informação
+
+---
+
+## 📫 Contato
 
 <p align="left">
-<a href="https://www.linkedin.com/in/douglasyohan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="http://lattes.cnpq.br/4064564945245811" target="blank"><img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" /></a>
-<a href="https://github.com/Douglasyohan" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/douglasyohan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="http://lattes.cnpq.br/4064564945245811" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Douglasyohan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🎓 Formação e Instituições
-* **Bacharelando em Contabilidade** na **UNICENTRO** (Universidade Estadual do Centro Oeste).
-* Membro de comitê de segurança e entusiasta da **Economia da Donut** e Justiça Social.
+## ⚙️ Atualmente
+
+- Desenvolvendo laboratórios com Proxmox e Docker
+- Trabalhando com automação e deploy Linux
+- Estudando observabilidade, compliance e infraestrutura segura
+- Construindo projetos de dados e indicadores econômicos
+```
