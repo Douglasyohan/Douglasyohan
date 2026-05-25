@@ -1,4 +1,3 @@
-```md
 # Olá, eu sou Douglas Yohan 👋
 
 ## Analista de Infraestrutura | Automação | Linux | Dados
