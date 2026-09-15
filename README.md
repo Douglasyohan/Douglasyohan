@@ -1,80 +1,154 @@
-# Douglas Yohan 🚀
+# Douglas Yohan 👋
 
 ```bash
-$ neofetch --profile douglasyohan
-  💼 Current Role : Infrastructure Analyst & Data Automation
-  📊 Core Focus   : Social Accounting & Socioeconomic Modeling
-  🐧 Core OS      : Fedora Workstation (LUKS/LVM) | Debian Server
-  🐳 Dev & Infra  : Proxmox VE | Docker | pfSense 
-  🧪 Automation   : Python | Shell Script 
-  🎓 Education    : B.S. in Accounting (UNICENTRO)
+$ whoami
+
+🐧 Linux Mint + Debian
+🛡️ Aegis Cybersecurity
+🐳 Docker • Proxmox • pfSense • MikroTik
+🐍 Python • Shell • Automation
+📊 Accounting • Economic Data • Social Accounting
+🔬 Modelo de Conversão Socioeconômica (MCS)
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-</div>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-86BE43?style=flat-square\&logo=linux-mint\&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square\&logo=debian\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square\&logo=proxmox\&logoColor=white)
 
 ---
 
-### 🚀 Sobre Mim
+## Sobre mim
 
-Atuo estrategicamente na convergência entre **Infraestrutura Tecnológica**, **Automação de Dados** e **Contabilidade Aplicada**. Meu foco profissional e acadêmico está voltado ao desenho de soluções que promovam a eficiência operacional, a governança corporativa e a interpretação crítica de dados econômicos e financeiros públicos.
+Construo projetos na interseção entre:
 
-Minha trajetória combina a solidez técnica de ambientes Linux, virtualização e observabilidade com o rigor analítico da contabilidade e da análise de dados, sempre pautada pelos princípios de transparência, ética e pela cultura open-source.
+* infraestrutura
+* automação
+* cibersegurança
+* dados
+* contabilidade
 
----
+Uso meu Home Lab como ambiente de testes para Linux, redes, containers, observabilidade, automações e serviços self-hosted.
 
-### 📊 Contabilidade, Dados & Impacto
-
-Concentro minhas pesquisas no desenvolvimento de estruturas que convertem dados macroeconômicos e fluxos financeiros em inteligência prática para tomada de decisão e análise de eficiência distributiva.
-
-* 🔎 **Contabilidade Social:** Estudo de indicadores socioeconômicos e mensuração de externalidades econômicas locais.
-* 📐 **Modelagem Conceitual:** Desenvolvimento do **Modelo de Conversão Socioeconômica (MCS)**, um framework teórico focado na análise de fluxos de valor e eficiência no uso de recursos coletivos.
-* 🏦 **Finanças Solidárias:** Análise de ecossistemas locais, bancos comunitários e moedas sociais como indutores de desenvolvimento.
-* 📈 **Automação Macroeconômica:** Construção de pipelines para captura e tratamento de dados públicos e séries temporais financeiras.
+Também curso **Ciências Contábeis na UNICENTRO** e estudo temas ligados a contabilidade social, dados econômicos e desenvolvimento socioeconômico.
 
 ---
 
-### 🛠️ Competências & Stack Tecnológica
+## 🛡️ Aegis Cybersecurity
 
-#### 🐧 Infraestrutura & Sistemas
-* **Ambientes de Trabalho:** Fedora Workstation e Debian Server <a href="https://github.com/Douglasyohan/home-server" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a> .
-* **Virtualização & Containers:** Proxmox VE (Arquitetura de laboratórios e segregação de serviços) e Docker.
-* **Automação:** Automação de pacotes `.deb`, Shell Script e rotinas de deploy linear.
+A **Aegis** é meu projeto de cibersegurança voltado principalmente para pequenas empresas e escritórios contábeis.
 
-#### 🔐 Segurança, Observabilidade & Compliance
-* **Segurança de Rede:** pfSense (Firewall, roteamento e políticas restritivas).
-* **Auditoria & Riscos:** Alinhamento de controles internos de TI com boas práticas de governança e compliance contábil.
+```text
+Aegis
+├── Hardening
+├── Network Security
+├── Infrastructure Security
+├── Risk & Compliance
+├── Security Awareness
+└── Security for Accounting Firms
+```
 
-#### 🧪 Engenharia de Dados & MVPs
-* **Linguagens:** Python focado em automação de relatórios, consumo de APIs e tratamento de bases de dados públicos.
-* **Arquitetura MVP:** Uso estratégico de conceitos low-code para acelerar entregas, priorizando portabilidade, clareza conceitual e facilidade de manutenção.
-
----
-
-### 🎓 Formação & Atividades
-* 🎓 **Bacharelando em Ciências Contábeis** — UNICENTRO (Campus Santa Cruz)
-* 🛡️ **Formação Complementar:** Estudos e laboratórios práticos em Análise de Sistemas e Cibersegurança.
-* 🔬 **Pesquisa:** Investigação independente voltada para a governança de dados e modelos contábeis aplicados ao impacto social.
+A proposta é aproximar segurança da informação, governança e realidade operacional.
 
 ---
 
-### 📬 Conecte-se Comigo
+## 🏠 Home Lab
 
-<div align="center">
-  <a href="https://linkedin.com/in/douglasyohan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:douglasrattes.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Douglasyohan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+```text
+Home Lab
+├── Linux
+├── Proxmox VE
+├── Docker
+├── pfSense
+├── MikroTik
+├── DNS
+├── Reverse Proxy
+├── Monitoring
+├── VPN
+├── Git
+└── Automation
+```
+
+[![Home Server](https://img.shields.io/badge/Home_Server-Repositório-181717?style=for-the-badge\&logo=github)](https://github.com/Douglasyohan/home-server)
+
+---
+
+## 🧪 Projetos
+
+### Automação
+
+Python, APIs, bots, integrações e rotinas para reduzir tarefas repetitivas.
+
+### Infraestrutura
+
+Linux, containers, redes, monitoramento e serviços self-hosted.
+
+### Cybersecurity
+
+Hardening, segurança de redes, auditoria técnica e governança através da Aegis.
+
+### Accounting + Data
+
+Projetos envolvendo contabilidade, indicadores econômicos, dados públicos e análise socioeconômica.
+
+---
+
+## 📊 Pesquisa
+
+Estou desenvolvendo o **Modelo de Conversão Socioeconômica (MCS)**.
+
+O modelo busca estudar como recursos econômicos são convertidos em resultados sociais e como esses fluxos podem ser analisados usando:
+
+* contabilidade social
+* dados públicos
+* indicadores econômicos
+* eficiência distributiva
+* desenvolvimento local
+
+Também estudo:
+
+`Contabilidade Social` `Dados Econômicos` `Finanças Solidárias` `Desenvolvimento Local`
+
+---
+
+## ⚙️ Stack
+
+```yaml
+systems:
+  - Linux Mint
+  - Debian
+
+infra:
+  - Proxmox VE
+  - Docker
+  - pfSense
+  - MikroTik
+
+automation:
+  - Python
+  - Shell Script
+  - APIs
+
+interests:
+  - Cybersecurity
+  - Self Hosting
+  - Accounting
+  - Economic Data
+  - Open Source
+```
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Yohan-0077B5?style=flat-square\&logo=linkedin)](https://linkedin.com/in/douglasyohan)
+
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:douglasrattes.contato@gmail.com)
+
+---
+
+```text
+build → break → understand → automate
+```
